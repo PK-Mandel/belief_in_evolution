@@ -1,2 +1,2 @@
 # belief_in_evolution
-Is belief in evolution assoiated with lower fecundity?
+Is belief in evolution associated with lower fecundity?
